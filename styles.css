@@ -7,10 +7,10 @@ button:focus {
   outline:0;
 }
 
-.coin-container {
+.coinContainer {
   text-align: center;
 }
 
-.coin-image {
+.coinImage {
   height: 200px;
 }
