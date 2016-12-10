@@ -1,4 +1,4 @@
 onCoinClick = function() {
-  var coinCount = document.getElementById('coinCount');
-  console.log(coinCount);
+  var coinCountElement = document.getElementById('coinCount');
+  console.log(coinCountElement);
 };
